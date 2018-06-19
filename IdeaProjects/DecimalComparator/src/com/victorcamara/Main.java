@@ -1,8 +1,5 @@
 package com.victorcamara;
 
-import java.text.DecimalFormat;
-import java.util.Formatter;
-
 public class Main {
 
     public static void main(String[] args) {
